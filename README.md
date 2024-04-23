@@ -1,3 +1,5 @@
+Varsha M S 
+NM ID: 86262861F0C87769C0D43295FA9929D3
 # Neural Style Transfer
 
 Neural style transfer (NST) is an optimization technique used to blend three images together: a content image, a style reference image (such as an artwork by a famous painter), and the input image you want to style. The goal is to transform the input image to look like the content image, but painted in the style of the style image.
